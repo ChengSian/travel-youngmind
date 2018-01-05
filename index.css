@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+header{
+    width:100vw;
+    min-height:10vh;
+    background-color: blueviolet;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 50px;
+    color:white;
+}
+
+.profile{
+    border:5px solid black;
+    margin:5px;
+    background-color: darkgray;
+}
